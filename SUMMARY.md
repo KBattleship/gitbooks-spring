@@ -3,5 +3,7 @@
 * [第一部分:Spring5](Spring5/README.md)
 * [第二部分:SpringBoot](SpringBoot/README.md)
 * [第三部分:SpringCloud](SpringCloud/README.md)
-    * [SpringCloud-Gateway](SpringCloud/gateway/1-base.md)
-
+    * [3-1.SpringCloud-Gateway](SpringCloud/gateway/README.md)
+        * [3-1-1.入门实践](SpringCloud/gateway/1-base.md)
+        * [3-1-2.源码解析](SpringCloud/gateway/2-source.md)
+        * [3-1-3.深入探索](SpringCloud/gateway/3-deep.md)
