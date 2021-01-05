@@ -1,10 +1,10 @@
 ---
-title: "[Spring]1.Spring源码中设计模式"
+title: "[ Spring ] 1.Spring源码中设计模式"
 date: 2020-12-31T11:13:47+08:00
 lastmod: 2020-12-31T11:13:47+08:00
 keywords: ['spring']
 description: ""
-tags: ['java','spring','design-pattern']
+tags: ['java','spring','design_pattern']
 categories: ['Java']
 author: ""
 ---
