@@ -4,7 +4,7 @@
 * [第二部分:SpringBoot](SpringBoot/README.md)
 * [第三部分:SpringCloud](SpringCloud/README.md)
     * [1-SpringCloud注册中心](SpringCloud/1_server/README.md)
-        * [1-1-EurekaServer配置](SpringCloud/1_server/eureka/1_1_eureka.md)
+        * [1-1.EurekaServer配置](SpringCloud/1_server/eureka/1_1_eureka.md)
     * [2-SpringCloud网关](SpringCloud/gateway/README.md)
         * [2-1.Gateway网关配置](SpringCloud/2_gateway/gateway/1_1_gateway.md)
     * [3-SpringCloud配置中心](SpringCloud/3_config/README.md)
